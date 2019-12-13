@@ -1,1 +1,0 @@
-# MushroomGuard3DModel
